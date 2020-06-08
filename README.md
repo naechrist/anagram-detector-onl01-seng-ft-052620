@@ -1,4 +1,4 @@
-learn submit# Anagram Detector
+# Anagram Detector
 
 ## Objectives
 
